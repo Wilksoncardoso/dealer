@@ -1,0 +1,58 @@
+.top{
+
+position: absolute;
+
+height: 60px;
+width: 100%;
+background-color: #2E2E2E;
+border-bottom: 4px solid #FACC2E
+
+}
+
+.login{
+    position: absolute;
+    top: 10px;
+    left: 60%;
+}
+
+.login p {
+    color: #ffff;
+}
+.login label {
+    color: #ffff;
+}
+.login input {
+    border-radius:4px;
+    height: 40px;
+}
+.cad{
+    position: absolute;
+    top: 13px;
+    left: 86%;
+}
+
+.continuar_lendo{
+    position: absolute;
+    left:680px ;
+    top:170px ;
+    border: 0px;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 10px;
+    background-color: #2E2E2E;
+    color: #ffffff;
+    border-right: 4px solid #FACC2E;
+
+}
+
+.continuar_lendo:hover{
+    position: absolute;
+    border: 0px;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 10px;
+    background-color:  #cac4c4;
+    color: #2E2E2E;
+    border-right: 4px solid #FACC2E;
+}
+

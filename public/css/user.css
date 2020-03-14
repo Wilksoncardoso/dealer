@@ -1,0 +1,93 @@
+.top{
+
+    position: absolute;
+    
+    height: 60px;
+    width: 100%;
+    background-color: #2E2E2E;
+    border-bottom: 4px solid #FACC2E
+    
+    }
+
+.botao_foto{
+    position: relative;
+    border-radius: 10px;
+    border: 0px;
+    background-image: url('../image/add_foto.png');
+    
+    left: -80px;
+    top: 305px;
+    width: 48px;
+    height: 48px;
+}
+
+    .imagem_topo{
+        position: absolute;
+        top: -10px;
+        left: -50px;
+    }
+
+    .login{
+        position: absolute;
+        top: 15px;
+        left: 60%;
+    }
+
+    .login p {
+        color: #ffffff;
+    }
+
+    .nav{
+        position: absolute;
+        left: 380px;
+    }
+    .nav_button{
+        color: #ffffff;
+        font-size: 15px;
+        border: 0px;
+        position: relative;
+        height: 56px;
+        background-color: #2E2E2E;
+    }
+
+    .nav_button:hover{
+        color: black;
+        background-color: #FACC2E;
+    }
+
+    .nav-button-position{
+        position:absolute;
+        left: 600px;
+    }
+
+    .user_card{
+        position: relative;
+        top: 80px;
+        left: 600px;
+        width: 400px;
+        
+    }
+
+    .card_form{
+        position: relative;
+        top: -390px;
+        width: 580px;
+    }
+
+    .form_user{
+        padding: 10px;
+    }
+
+ .modal{
+    position: relative;
+    top: -300px;
+    left: 750px;
+    width: 350px;
+    height: 300px;
+
+
+
+ }
+    
+    
+

@@ -1,0 +1,83 @@
+.top{
+
+    position: absolute;
+    
+    height: 60px;
+    width: 100%;
+    background-color: #2E2E2E;
+    border-bottom: 4px solid #FACC2E
+    
+    }
+
+.botao_foto{
+    position: absolute;
+    border-radius: 10px;
+    border: 0px;
+    background-image: url('../image/add_foto.png');
+    
+    left: 280px;
+    top: 300px;
+    width: 48px;
+    height: 48px;
+}
+
+    .imagem_topo{
+        position: absolute;
+        top: -10px;
+        left: -50px;
+    }
+
+    .login{
+        position: absolute;
+        top: 15px;
+        left: 60%;
+    }
+
+    .login p {
+        color: #ffffff;
+    }
+    
+    .modal-dialog{
+        position: relative;
+        left: 300px;
+        top:40%;
+        width:400px;
+        height: 330px;
+
+    }
+
+    .enviar_foto{
+        position: relative;
+        left: 300px;
+    }
+
+    .nav{
+        position: absolute;
+        left: 380px;
+    }
+    .nav_button{
+        color: #ffffff;
+        font-size: 15px;
+        border: 0px;
+        position: relative;
+        height: 56px;
+        background-color: #2E2E2E;
+    }
+
+    .nav_button:hover{
+        color: black;
+        background-color: #FACC2E;
+    }
+
+    .nav-button-position{
+        position:absolute;
+        left: 600px;
+    }
+
+
+    .faz_postagem{
+        position: relative;
+        top:-835px;
+        height: 330px;
+        width:630px;
+    }
